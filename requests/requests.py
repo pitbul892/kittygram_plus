@@ -1,7 +1,6 @@
 {
     "first_name": "Roma",
     "last_name": "Kopytov",
-    "cats": 2
 }
 
 {
@@ -17,7 +16,12 @@
     "birth_year": 2017,
     "owner": 1,
     "achievements": [
-        {"name": "поймал мышку"},
-        {"name": "разбил вазу"}
+        {"achievement_name": "поймал мышку"},
+        {"achievement_name": "разбил вазу"}
     ]
+}
+
+{
+    "username": "Olis",
+    "password": "9293"
 }
